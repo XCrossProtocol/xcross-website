@@ -50,7 +50,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 /*about*/
 .about.spacer{padding-left: 4em; padding-right: 4em;}
-.process ul li{width: 10em;height: 10em;border: 1px solid #CEEBF0;padding: 0;border-radius: 50%;margin: 0 1.25em;line-height: 13.5em;color: #8a6d3b;}
+.process ul li{width: 10em;height: 10em;border: 1px solid #8a6d3b;padding: 0;border-radius: 50%;margin: 0 1.25em;line-height: 13.5em;color: #8a6d3b;}
 .process ul li span{line-height: 2em;display: inline-block;font-weight: 300;margin-top: 20px;}
 .process ul li span i{font-size: 3em;}
 .process ul li span b{display: block;font-size: 1em;font-weight: 300;}
@@ -106,7 +106,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .grid figure h2{
 	font: 100 1.4em 'Russo One',Arial,Helvetica;
 	background-color: #8a6d3b7a;
-	margin-top:150px;
+	margin-top:10px;
 }
 
 @media (max-width: 1200px) {
